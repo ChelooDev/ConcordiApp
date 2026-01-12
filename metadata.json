@@ -1,0 +1,5 @@
+{
+  "name": "ConcordiApp",
+  "description": "A mobile-first classroom management tool for teachers to track participation, log behavior, and analyze student trends with AI insights.",
+  "requestFramePermissions": []
+}
